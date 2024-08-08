@@ -1,6 +1,3 @@
-
-
-```markdown
 # Note-Taking App
 ![image](https://github.com/user-attachments/assets/7ad31eca-6b7a-47c3-aabb-c30d935d100e)
 
